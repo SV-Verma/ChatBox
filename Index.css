@@ -59,7 +59,6 @@ body {
     align-items: flex-start;
   }
   
-  /* Styles for the chatbot's message */
   .message.Chatbot .bubble {
     background-color: #E1E1E1;
     color: #333;
